@@ -1,7 +1,7 @@
 #Thu Feb 09 10:32:47 PST 2023
 /Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=gcc
 /Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=g++
-/Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=gcc_7-64
+/Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=gcc_11-64
 /Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST
 /Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=options_dir_extractor_id
 /Timer_SC//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=g++
